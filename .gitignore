@@ -1,13 +1,15 @@
 /book-*/
 /vcpkg/
+/sockets/server-html/
+/errors/cexception/
+/_data/*
 .vscode
 .idea
 *.o
 *.d
+*.csv
 *.txt
 *.log
 *.out
 !.gitkeep
 !.gitignore
-/sockets/server-html/
-/errors/cexception/
