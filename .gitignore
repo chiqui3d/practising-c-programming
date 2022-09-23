@@ -3,6 +3,7 @@
 /sockets/server-html/
 /errors/cexception/
 /_data/*
+/include/llhttp/
 .vscode
 .idea
 *.o
